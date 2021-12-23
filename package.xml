@@ -3,6 +3,7 @@
     <types>
         <members>Questionaire__c.Value__c</members>
         <members>Unicorn_Project__c.List_Price__c</members>
+        <members>nFORCE__Question__c.Value__c</members>
         <name>CustomField</name>
     </types>
     <types>
