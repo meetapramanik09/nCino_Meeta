@@ -6,11 +6,13 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Custom_Rule__c</members>
         <members>Questionaire__c</members>
         <members>Unicorn_Project__c</members>
         <name>CustomObject</name>
     </types>
     <types>
+        <members>Custom_Rule__c-Custom Rule Layout</members>
         <members>Questionaire__c-Questionnaire Layout</members>
         <members>Unicorn_Project__c-Unicorn Project Layout</members>
         <name>Layout</name>
