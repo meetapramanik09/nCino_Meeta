@@ -17,3 +17,10 @@ packageDirectories:
           versions:
             Spring 2020 v3:
               modifiedDate: '2021-12-23 15:39:17'
+        01xFqA04-Screen1:
+          path: dataset/01xFqA04-Screen1
+          prefix: eval1
+          standardFeature: false
+          versions:
+            V1:
+              modifiedDate: '2021-12-23 18:11:04'

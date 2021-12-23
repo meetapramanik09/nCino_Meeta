@@ -1,0 +1,45 @@
+{
+  "name": "1_nFORCE__Screen__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "CreatedDate",
+    "CreatedById",
+    "LastModifiedDate",
+    "LastModifiedById",
+    "SystemModstamp",
+    "LastActivityDate",
+    "LastViewedDate",
+    "LastReferencedDate",
+    "ConnectionReceivedId",
+    "ConnectionSentId",
+    "nFORCE__Disable_Print__c",
+    "nFORCE__Show_Link_To_Context_Object__c",
+    "nFORCE__lookupKey__c",
+    "AutorabitExtId__c"
+  ],
+  "records": {
+    "1": {
+      "AutorabitExtId__c": "",
+      "ConnectionReceivedId": "",
+      "ConnectionSentId": "",
+      "CreatedById": "0055e000003ZErQAAW",
+      "CreatedDate": "2021-06-18T13:03:13.000Z",
+      "Id": "a2G5e0000005UtoEAE",
+      "IsDeleted": "",
+      "LastActivityDate": "",
+      "LastModifiedById": "0055e000003ZErQAAW",
+      "LastModifiedDate": "2021-10-10T18:01:30.000Z",
+      "LastReferencedDate": "",
+      "LastViewedDate": "",
+      "Name": "Standard Loan Credit Memo",
+      "OwnerId": "0055e000003ZErQAAW",
+      "SystemModstamp": "",
+      "nFORCE__Disable_Print__c": "true",
+      "nFORCE__Show_Link_To_Context_Object__c": "true",
+      "nFORCE__lookupKey__c": "42286465180298091"
+    }
+  }
+}

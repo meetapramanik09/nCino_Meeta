@@ -1,0 +1,15 @@
+{
+  "prefix": "eval1",
+  "packageDirectories": {
+    "V1": {
+      "metadata": {
+        "exclude": {
+          "CustomObject": []
+        }
+      },
+      "data": {
+        "exclude": {}
+      }
+    }
+  }
+}
